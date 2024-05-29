@@ -232,6 +232,19 @@ nav .navigation ul li a:hover{
   align-items: center;
 }
 
+#registration .reminder{
+  color: white;
+
+
+}
+
+#registration .reminder .time{
+  display: flex;
+  margin-top: 40px;
+}
+
+
+3
 /* experts */
 
 /* footer */
